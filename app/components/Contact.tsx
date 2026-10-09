@@ -42,7 +42,7 @@ export default function Contact() {
   href="https://wa.me/2348038798704?text=Hello%20Temitope%2C%20I%20visited%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project."
   target="_blank"
   rel="noopener noreferrer"
-  className="rounded-full border border-violet-500/40 bg-violet-500/10 px-7 py-3.5 text-center text-sm font-semibold text-white opacity-100 transition-colors duration-200 hover:bg-violet-500 hover:text-white"
+  className="rounded-full border border-white-500/40 bg-violet-500/10 px-7 py-3.5 text-center text-sm font-semibold text-white opacity-100 transition-colors duration-200 hover:bg-violet-500 hover:text-white"
 >
   Chat on WhatsApp ↗
 </a>
