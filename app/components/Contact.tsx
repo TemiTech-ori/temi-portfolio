@@ -31,7 +31,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="www.linkedin.com/in/temitope-emmanuel-859016440/"
+                href="https://www.linkedin.com/in/temitope-emmanuel-859016440"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full border border-white/40 bg-white/5 px-7 py-3.5 text-center text-sm font-semibold text-white opacity-100 transition-colors duration-200 hover:border-violet-500 hover:bg-violet-500 hover:text-white"
